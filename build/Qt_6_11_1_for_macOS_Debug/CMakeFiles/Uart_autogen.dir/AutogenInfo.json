@@ -1,19 +1,19 @@
 {
-	"BUILD_DIR" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen",
-	"CMAKE_BINARY_DIR" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart",
+	"BUILD_DIR" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json",
 	"CMAKE_EXECUTABLE" : "/Users/makc/Qt/Tools/CMake/CMake.app/Contents/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/CMakeLists.txt",
-		"/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake",
-		"/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug/.qtcreator/cmake-helper/package-manager.cmake",
-		"/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/3.30.5/CMakeSystem.cmake",
-		"/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake",
+		"/Users/makc/Desktop/C\u0442\u0430\u0436/Json/CMakeLists.txt",
+		"/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake",
+		"/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug/.qtcreator/cmake-helper/package-manager.cmake",
+		"/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/3.30.5/CMakeSystem.cmake",
+		"/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake",
 		"/Users/makc/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake",
 		"/Users/makc/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.30/Modules/Platform/Darwin-Initialize.cmake",
-		"/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake",
+		"/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake",
 		"/Users/makc/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake",
 		"/Users/makc/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.30/Modules/CMakeGenericSystem.cmake",
 		"/Users/makc/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake",
@@ -376,22 +376,22 @@
 		"/Users/makc/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.30/Modules/GNUInstallDirs.cmake",
 		"/Users/makc/Qt/6.11.1/macos/lib/cmake/Qt6/macos/Info.plist.app.in"
 	],
-	"CMAKE_SOURCE_DIR" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart",
+	"CMAKE_SOURCE_DIR" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/deps",
+	"DEP_FILE" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "Uart_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/mainwindow.h",
+			"/Users/makc/Desktop/C\u0442\u0430\u0436/Json/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/include",
-	"MOC_COMPILATION_FILE" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_QML_DEBUG", "QT_WIDGETS_LIB" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
@@ -434,22 +434,22 @@
 		"-c",
 		"/Users/makc/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 8,
-	"PARSE_CACHE_FILE" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/Uart_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/Uart_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/Users/makc/Qt/6.11.1/macos/libexec/moc",
 	"QT_UIC_EXECUTABLE" : "/Users/makc/Qt/6.11.1/macos/libexec/uic",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 11,
-	"SETTINGS_FILE" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/Uart_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/Uart_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/main.cpp", "MU", null ],
+		[ "/Users/makc/Desktop/C\u0442\u0430\u0436/Json/main.cpp", "MU", null ],
 		[
-			"/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/mainwindow.cpp",
+			"/Users/makc/Desktop/C\u0442\u0430\u0436/Json/mainwindow.cpp",
 			"MU",
 			null
 		]

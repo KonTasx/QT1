@@ -53,10 +53,10 @@ RM = /Users/makc/Qt/Tools/CMake/CMake.app/Contents/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/makc/Desktop/Cтаж/Uart
+CMAKE_SOURCE_DIR = /Users/makc/Desktop/Cтаж/Json
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug
+CMAKE_BINARY_DIR = /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug
 
 # Utility rule file for Uart_autogen.
 
@@ -71,9 +71,9 @@ CMakeFiles/Uart_autogen: Uart_autogen/timestamp
 Uart_autogen/timestamp: /Users/makc/Qt/6.11.1/macos/libexec/moc
 Uart_autogen/timestamp: /Users/makc/Qt/6.11.1/macos/libexec/uic
 Uart_autogen/timestamp: CMakeFiles/Uart_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target Uart"
-	/Users/makc/Qt/Tools/CMake/CMake.app/Contents/bin/cmake -E cmake_autogen /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/Uart_autogen.dir/AutogenInfo.json Debug
-	/Users/makc/Qt/Tools/CMake/CMake.app/Contents/bin/cmake -E touch /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target Uart"
+	/Users/makc/Qt/Tools/CMake/CMake.app/Contents/bin/cmake -E cmake_autogen /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/Uart_autogen.dir/AutogenInfo.json Debug
+	/Users/makc/Qt/Tools/CMake/CMake.app/Contents/bin/cmake -E touch /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/timestamp
 
 Uart_autogen: CMakeFiles/Uart_autogen
 Uart_autogen: Uart_autogen/timestamp
@@ -89,6 +89,6 @@ CMakeFiles/Uart_autogen.dir/clean:
 .PHONY : CMakeFiles/Uart_autogen.dir/clean
 
 CMakeFiles/Uart_autogen.dir/depend:
-	cd /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/makc/Desktop/Cтаж/Uart /Users/makc/Desktop/Cтаж/Uart /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/Uart_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/makc/Desktop/Cтаж/Json /Users/makc/Desktop/Cтаж/Json /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/Uart_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/Uart_autogen.dir/depend
 

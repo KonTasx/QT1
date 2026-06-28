@@ -7,7 +7,7 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/Users/makc/Desktop/Cтаж/Uart/CMakeLists.txt"
+  "/Users/makc/Desktop/Cтаж/Json/CMakeLists.txt"
   ".qt/info_plist/Uart/Info.plist"
   ".qtcreator/cmake-helper/maintenance_tool_provider.cmake"
   ".qtcreator/cmake-helper/package-manager.cmake"

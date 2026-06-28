@@ -1,5 +1,5 @@
-CMakeFiles/Uart.dir/main.cpp.o: /Users/makc/Desktop/Cтаж/Uart/main.cpp \
-  /Users/makc/Desktop/Cтаж/Uart/mainwindow.h \
+CMakeFiles/Uart.dir/main.cpp.o: /Users/makc/Desktop/Cтаж/Json/main.cpp \
+  /Users/makc/Desktop/Cтаж/Json/mainwindow.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/QMainWindow \
   /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/qmainwindow.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/qtwidgetsglobal.h \

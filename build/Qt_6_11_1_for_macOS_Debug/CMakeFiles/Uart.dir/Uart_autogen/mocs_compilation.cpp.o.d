@@ -1,7 +1,7 @@
 CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.o: \
-  /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/mocs_compilation.cpp \
-  /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/EWIEGA46WW/moc_mainwindow.cpp \
-  /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/EWIEGA46WW/../../../../mainwindow.h \
+  /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/mocs_compilation.cpp \
+  /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/EWIEGA46WW/moc_mainwindow.cpp \
+  /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/EWIEGA46WW/../../../../mainwindow.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/QMainWindow \
   /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/qmainwindow.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/qtwidgetsglobal.h \

@@ -1,5 +1,5 @@
 CMakeFiles/Uart.dir/mainwindow.cpp.o: \
-  /Users/makc/Desktop/Cтаж/Uart/mainwindow.cpp \
+  /Users/makc/Desktop/Cтаж/Json/mainwindow.cpp \
   /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/QJsonObject \
   /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/qjsonobject.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/qjsonvalue.h \
@@ -964,7 +964,7 @@ CMakeFiles/Uart.dir/mainwindow.cpp.o: \
   /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/qjsondocument.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/qjsonparseerror.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/QJsonDocument \
-  /Users/makc/Desktop/Cтаж/Uart/mainwindow.h \
+  /Users/makc/Desktop/Cтаж/Json/mainwindow.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/QMainWindow \
   /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/qmainwindow.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/qtwidgetsglobal.h \
@@ -1007,7 +1007,7 @@ CMakeFiles/Uart.dir/mainwindow.cpp.o: \
   /Users/makc/Qt/6.11.1/macos/lib/QtGui.framework/Headers/qcursor.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtGui.framework/Headers/qbitmap.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/qtabwidget.h \
-  /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/include/ui_mainwindow.h \
+  /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/include/ui_mainwindow.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/QVariant \
   /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/QApplication \
   /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/qapplication.h \

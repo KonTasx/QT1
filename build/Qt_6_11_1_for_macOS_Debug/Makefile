@@ -57,10 +57,10 @@ RM = /Users/makc/Qt/Tools/CMake/CMake.app/Contents/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/makc/Desktop/Cтаж/Uart
+CMAKE_SOURCE_DIR = /Users/makc/Desktop/Cтаж/Json
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug
+CMAKE_BINARY_DIR = /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -132,9 +132,9 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

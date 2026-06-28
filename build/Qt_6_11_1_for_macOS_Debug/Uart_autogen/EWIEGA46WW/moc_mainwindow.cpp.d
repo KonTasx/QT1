@@ -1,5 +1,5 @@
-/Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/EWIEGA46WW/moc_mainwindow.cpp: /Users/makc/Desktop/Cтаж/Uart/mainwindow.h \
-  /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/moc_predefs.h \
+/Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/EWIEGA46WW/moc_mainwindow.cpp: /Users/makc/Desktop/Cтаж/Json/mainwindow.h \
+  /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/moc_predefs.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternalLegacy.h \

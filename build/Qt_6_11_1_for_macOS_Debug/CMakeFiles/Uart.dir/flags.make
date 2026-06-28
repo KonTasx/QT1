@@ -4,7 +4,7 @@
 # compile CXX with /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
 CXX_DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_QML_DEBUG -DQT_WIDGETS_LIB
 
-CXX_INCLUDES = -I/Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/include -isystem /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers -iframework /Users/makc/Qt/6.11.1/macos/lib -isystem /Users/makc/Qt/6.11.1/macos/mkspecs/macx-clang -isystem /Users/makc/Qt/6.11.1/macos/include -isystem /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers -isystem /Users/makc/Qt/6.11.1/macos/lib/QtGui.framework/Headers
+CXX_INCLUDES = -I/Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/include -isystem /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers -iframework /Users/makc/Qt/6.11.1/macos/lib -isystem /Users/makc/Qt/6.11.1/macos/mkspecs/macx-clang -isystem /Users/makc/Qt/6.11.1/macos/include -isystem /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers -isystem /Users/makc/Qt/6.11.1/macos/lib/QtGui.framework/Headers
 
 CXX_FLAGSarm64 = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -mmacosx-version-min=26.3 -fcolor-diagnostics
 

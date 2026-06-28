@@ -833,7 +833,7 @@ CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.o: Uart_autogen/mocs_compi
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stdbool.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stdint.h \
-  /Users/makc/Desktop/Cтаж/Uart/mainwindow.h \
+  /Users/makc/Desktop/Cтаж/Json/mainwindow.h \
   Uart_autogen/EWIEGA46WW/moc_mainwindow.cpp \
   /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/q17memory.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/q20algorithm.h \
@@ -1000,7 +1000,7 @@ CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.o: Uart_autogen/mocs_compi
   /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/qtwidgetsglobal.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/qwidget.h
 
-CMakeFiles/Uart.dir/main.cpp.o: /Users/makc/Desktop/Cтаж/Uart/main.cpp \
+CMakeFiles/Uart.dir/main.cpp.o: /Users/makc/Desktop/Cтаж/Json/main.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/Availability.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/AvailabilityInternal.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/AvailabilityInternalLegacy.h \
@@ -1832,7 +1832,7 @@ CMakeFiles/Uart.dir/main.cpp.o: /Users/makc/Desktop/Cтаж/Uart/main.cpp \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stdbool.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stdint.h \
-  /Users/makc/Desktop/Cтаж/Uart/mainwindow.h \
+  /Users/makc/Desktop/Cтаж/Json/mainwindow.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/q17memory.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/q20bit.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/q20functional.h \
@@ -2009,7 +2009,7 @@ CMakeFiles/Uart.dir/main.cpp.o: /Users/makc/Desktop/Cтаж/Uart/main.cpp \
   /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/qtwidgetsglobal.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/qwidget.h
 
-CMakeFiles/Uart.dir/mainwindow.cpp.o: /Users/makc/Desktop/Cтаж/Uart/mainwindow.cpp \
+CMakeFiles/Uart.dir/mainwindow.cpp.o: /Users/makc/Desktop/Cтаж/Json/mainwindow.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/Availability.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/AvailabilityInternal.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/AvailabilityInternalLegacy.h \
@@ -2842,7 +2842,7 @@ CMakeFiles/Uart.dir/mainwindow.cpp.o: /Users/makc/Desktop/Cтаж/Uart/mainwindo
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stdint.h \
   Uart_autogen/include/ui_mainwindow.h \
-  /Users/makc/Desktop/Cтаж/Uart/mainwindow.h \
+  /Users/makc/Desktop/Cтаж/Json/mainwindow.h \
   /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/QJsonDocument \
   /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/QJsonObject \
   /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/QVariant \
@@ -3104,8 +3104,6 @@ CMakeFiles/Uart.dir/mainwindow.cpp.o: /Users/makc/Desktop/Cтаж/Uart/mainwindo
 
 /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/qabstracteventdispatcher.h:
 
-/Users/makc/Desktop/Cтаж/Uart/main.cpp:
-
 /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/qwidget.h:
 
 /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framework/Headers/qtwidgets-config.h:
@@ -3289,6 +3287,8 @@ CMakeFiles/Uart.dir/mainwindow.cpp.o: /Users/makc/Desktop/Cтаж/Uart/mainwindo
 /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/q20algorithm.h:
 
 /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Headers/q17memory.h:
+
+/Users/makc/Desktop/Cтаж/Json/mainwindow.h:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stdint.h:
 
@@ -3918,8 +3918,6 @@ Uart_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/c++/v1/__type_traits/add_cv_quals.h:
 
-/Users/makc/Desktop/Cтаж/Uart/mainwindow.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/c++/v1/__concepts/boolean_testable.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/c++/v1/__tuple/tuple_types.h:
@@ -4099,6 +4097,8 @@ Uart_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/c++/v1/__type_traits/is_execution_policy.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/c++/v1/__mutex/tag_types.h:
+
+/Users/makc/Desktop/Cтаж/Json/mainwindow.cpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/c++/v1/__new/placement_new_delete.h:
 
@@ -4438,6 +4438,8 @@ Uart_autogen/include/ui_mainwindow.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/c++/v1/array:
 
+/Users/makc/Desktop/Cтаж/Json/main.cpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/c++/v1/cstdint:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/c++/v1/__exception/nested_exception.h:
@@ -4747,8 +4749,6 @@ Uart_autogen/mocs_compilation.cpp:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/c++/v1/__algorithm/set_union.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/pthread.h:
-
-/Users/makc/Desktop/Cтаж/Uart/mainwindow.cpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/include/sys/_types/_rune_t.h:
 

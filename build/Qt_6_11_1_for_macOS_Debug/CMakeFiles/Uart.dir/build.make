@@ -53,10 +53,10 @@ RM = /Users/makc/Qt/Tools/CMake/CMake.app/Contents/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/makc/Desktop/Cтаж/Uart
+CMAKE_SOURCE_DIR = /Users/makc/Desktop/Cтаж/Json
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug
+CMAKE_BINARY_DIR = /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Uart.dir/depend.make
@@ -72,44 +72,44 @@ include CMakeFiles/Uart.dir/flags.make
 CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.o: CMakeFiles/Uart.dir/flags.make
 CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.o: Uart_autogen/mocs_compilation.cpp
 CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.o: CMakeFiles/Uart.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.o -MF CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.o -c /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.o -MF CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.o -c /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/mocs_compilation.cpp
 
 CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/mocs_compilation.cpp > CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/mocs_compilation.cpp > CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.i
 
 CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/mocs_compilation.cpp -o CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/mocs_compilation.cpp -o CMakeFiles/Uart.dir/Uart_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/Uart.dir/main.cpp.o: CMakeFiles/Uart.dir/flags.make
-CMakeFiles/Uart.dir/main.cpp.o: /Users/makc/Desktop/Cтаж/Uart/main.cpp
+CMakeFiles/Uart.dir/main.cpp.o: /Users/makc/Desktop/Cтаж/Json/main.cpp
 CMakeFiles/Uart.dir/main.cpp.o: CMakeFiles/Uart.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Uart.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Uart.dir/main.cpp.o -MF CMakeFiles/Uart.dir/main.cpp.o.d -o CMakeFiles/Uart.dir/main.cpp.o -c /Users/makc/Desktop/Cтаж/Uart/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Uart.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Uart.dir/main.cpp.o -MF CMakeFiles/Uart.dir/main.cpp.o.d -o CMakeFiles/Uart.dir/main.cpp.o -c /Users/makc/Desktop/Cтаж/Json/main.cpp
 
 CMakeFiles/Uart.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Uart.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/makc/Desktop/Cтаж/Uart/main.cpp > CMakeFiles/Uart.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/makc/Desktop/Cтаж/Json/main.cpp > CMakeFiles/Uart.dir/main.cpp.i
 
 CMakeFiles/Uart.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Uart.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/makc/Desktop/Cтаж/Uart/main.cpp -o CMakeFiles/Uart.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/makc/Desktop/Cтаж/Json/main.cpp -o CMakeFiles/Uart.dir/main.cpp.s
 
 CMakeFiles/Uart.dir/mainwindow.cpp.o: CMakeFiles/Uart.dir/flags.make
-CMakeFiles/Uart.dir/mainwindow.cpp.o: /Users/makc/Desktop/Cтаж/Uart/mainwindow.cpp
+CMakeFiles/Uart.dir/mainwindow.cpp.o: /Users/makc/Desktop/Cтаж/Json/mainwindow.cpp
 CMakeFiles/Uart.dir/mainwindow.cpp.o: CMakeFiles/Uart.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Uart.dir/mainwindow.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Uart.dir/mainwindow.cpp.o -MF CMakeFiles/Uart.dir/mainwindow.cpp.o.d -o CMakeFiles/Uart.dir/mainwindow.cpp.o -c /Users/makc/Desktop/Cтаж/Uart/mainwindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Uart.dir/mainwindow.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Uart.dir/mainwindow.cpp.o -MF CMakeFiles/Uart.dir/mainwindow.cpp.o.d -o CMakeFiles/Uart.dir/mainwindow.cpp.o -c /Users/makc/Desktop/Cтаж/Json/mainwindow.cpp
 
 CMakeFiles/Uart.dir/mainwindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Uart.dir/mainwindow.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/makc/Desktop/Cтаж/Uart/mainwindow.cpp > CMakeFiles/Uart.dir/mainwindow.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/makc/Desktop/Cтаж/Json/mainwindow.cpp > CMakeFiles/Uart.dir/mainwindow.cpp.i
 
 CMakeFiles/Uart.dir/mainwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Uart.dir/mainwindow.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/makc/Desktop/Cтаж/Uart/mainwindow.cpp -o CMakeFiles/Uart.dir/mainwindow.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/makc/Desktop/Cтаж/Json/mainwindow.cpp -o CMakeFiles/Uart.dir/mainwindow.cpp.s
 
 # Object files for target Uart
 Uart_OBJECTS = \
@@ -128,7 +128,7 @@ Uart.app/Contents/MacOS/Uart: /Users/makc/Qt/6.11.1/macos/lib/QtWidgets.framewor
 Uart.app/Contents/MacOS/Uart: /Users/makc/Qt/6.11.1/macos/lib/QtGui.framework/Versions/A/QtGui
 Uart.app/Contents/MacOS/Uart: /Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Versions/A/QtCore
 Uart.app/Contents/MacOS/Uart: CMakeFiles/Uart.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Uart.app/Contents/MacOS/Uart"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Uart.app/Contents/MacOS/Uart"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Uart.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -140,6 +140,6 @@ CMakeFiles/Uart.dir/clean:
 .PHONY : CMakeFiles/Uart.dir/clean
 
 CMakeFiles/Uart.dir/depend:
-	cd /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/makc/Desktop/Cтаж/Uart /Users/makc/Desktop/Cтаж/Uart /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug /Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/Uart.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/makc/Desktop/Cтаж/Json /Users/makc/Desktop/Cтаж/Json /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug /Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/Uart.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/Uart.dir/depend
 

@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Uart::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Uart-Debug-73092d1eb08e8815d3d2.json",
+					"jsonFile" : "target-Uart-Debug-5a067e9ac47d27adbe50.json",
 					"name" : "Uart",
 					"projectIndex" : 0
 				},
@@ -68,8 +68,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug",
-		"source" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart"
+		"build" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug",
+		"source" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json"
 	},
 	"version" : 
 	{

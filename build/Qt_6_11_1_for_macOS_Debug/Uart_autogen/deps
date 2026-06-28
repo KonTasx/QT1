@@ -725,16 +725,16 @@ Uart_autogen/timestamp: \
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/limits.h \
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/ptrcheck.h \
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stdarg.h \
-	/Users/makc/Desktop/Cтаж/Uart/CMakeLists.txt \
-	/Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake \
-	/Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/.qtcreator/cmake-helper/package-manager.cmake \
-	/Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake \
-	/Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
-	/Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
-	/Users/makc/Desktop/Cтаж/Uart/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/moc_predefs.h \
-	/Users/makc/Desktop/Cтаж/Uart/main.cpp \
-	/Users/makc/Desktop/Cтаж/Uart/mainwindow.cpp \
-	/Users/makc/Desktop/Cтаж/Uart/mainwindow.h \
+	/Users/makc/Desktop/Cтаж/Json/CMakeLists.txt \
+	/Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake \
+	/Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/.qtcreator/cmake-helper/package-manager.cmake \
+	/Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake \
+	/Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
+	/Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
+	/Users/makc/Desktop/Cтаж/Json/build/Qt_6_11_1_for_macOS_Debug/Uart_autogen/moc_predefs.h \
+	/Users/makc/Desktop/Cтаж/Json/main.cpp \
+	/Users/makc/Desktop/Cтаж/Json/mainwindow.cpp \
+	/Users/makc/Desktop/Cтаж/Json/mainwindow.h \
 	/Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Versions/A/Headers/q17memory.h \
 	/Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Versions/A/Headers/q20bit.h \
 	/Users/makc/Qt/6.11.1/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
@@ -1143,5 +1143,5 @@ Uart_autogen/timestamp: \
 	/Users/makc/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.30/Modules/Platform/Darwin-Initialize.cmake \
 	/Users/makc/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.30/Modules/Platform/Darwin.cmake \
 	/Users/makc/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.30/Modules/Platform/UnixPaths.cmake \
-	/Users/makc/Desktop/Cтаж/Uart/mainwindow.ui \
+	/Users/makc/Desktop/Cтаж/Json/mainwindow.ui \
 	/Users/makc/Qt/Tools/CMake/CMake.app/Contents/bin/cmake

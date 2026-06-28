@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug"
+			"value" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -419,7 +419,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -491,7 +491,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart"
+			"value" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -1043,7 +1043,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+			"value" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
 		},
 		{
 			"name" : "CMAKE_PROJECT_NAME",
@@ -1463,7 +1463,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug/.qtcreator/cmake-helper"
+			"value" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug/.qtcreator/cmake-helper"
 		},
 		{
 			"name" : "QT_ADDITIONAL_HOST_PACKAGES_PREFIX_PATH",
@@ -6590,18 +6590,6 @@
 			"value" : "/Users/makc/Qt/6.11.1/macos/lib/cmake/Qt6CoreTools"
 		},
 		{
-			"name" : "Qt6CoreWidgets_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "The directory containing a CMake configuration file for Qt6CoreWidgets."
-				}
-			],
-			"type" : "PATH",
-			"value" : "Qt6CoreWidgets_DIR-NOTFOUND"
-		},
-		{
 			"name" : "Qt6Core_DIR",
 			"properties" : 
 			[
@@ -6707,7 +6695,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug"
+			"value" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json/build/Qt_6_11_1_for_macOS_Debug"
 		},
 		{
 			"name" : "Uart_IS_TOP_LEVEL",
@@ -6731,7 +6719,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart"
+			"value" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Json"
 		},
 		{
 			"name" : "_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX",
