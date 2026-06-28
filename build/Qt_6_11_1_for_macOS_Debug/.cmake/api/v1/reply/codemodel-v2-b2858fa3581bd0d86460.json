@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-42caa233965c198659ac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Uart",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Uart::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Uart-Debug-73092d1eb08e8815d3d2.json",
+					"name" : "Uart",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Uart_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Uart_autogen-Debug-159df5bf33b3be04b86c.json",
+					"name" : "Uart_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Uart_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Uart_autogen_timestamp_deps-Debug-2ba8b549b727730bc877.json",
+					"name" : "Uart_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart/build/Qt_6_11_1_for_macOS_Debug",
+		"source" : "/Users/makc/Desktop/C\u0442\u0430\u0436/Uart"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
